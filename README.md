@@ -1,14 +1,10 @@
-# 📚 MyCampus – College Management System
+# 📚 My Aurex – College Management System
 
-**MyCampus** is a full-stack college management system designed to streamline student registration, authentication, and profile management. Built with modern web technologies, it offers a responsive, user-friendly interface to simplify academic operations.
+**My Aurex** is a full-stack college management system designed to streamline student registration, authentication, and profile management. Built with modern web technologies, it offers a responsive, user-friendly interface to simplify academic operations.
 
-🌐 **Live Demo:** [https://www.my-campus.live](https://www.my-campus.live)
+🌐 [**Live Demo:**]()
 
 ![MyCampus Demo](https://res.cloudinary.com/dhwpprvsb/image/upload/v1751170569/Screenshot_2025-06-29_at_9.21.32_AM_pkuglf.png)
-
-[![GitHub stars](https://img.shields.io/github/stars/yogeshrjk/college-management-system)](https://github.com/yogeshrjk/college-management-system/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/yogeshrjk/college-management-system)](https://github.com/yogeshrjk/college-management-system/issues)
-[![License](https://img.shields.io/github/license/yogeshrjk/college-management-system)](https://github.com/yogeshrjk/college-management-system/blob/main/LICENSE)
 
 ---
 
@@ -87,13 +83,13 @@ You can use the following test credentials to log in:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yogeshrjk/college-management-system.git
+   git clone https://github.com/p-thanks/My-Aurex.git
    ```
 
 2. **Frontend Setup**
 
    ```bash
-   cd college-management-system/client
+   cd My-Aurex/client
    npm install
    npm run dev
    ```
@@ -101,7 +97,7 @@ You can use the following test credentials to log in:
 3. **Backend Setup**
 
    ```bash
-   cd college-management-system/server
+   cd My-Aurex/server
    npm install
    ```
 
@@ -113,13 +109,15 @@ You can use the following test credentials to log in:
    CLOUDINARY_CLOUD_NAME=your_cloud_name
    CLOUDINARY_API_KEY=your_api_key
    CLOUDINARY_API_SECRET=your_api_secret
+
    PORT=5000
    ```
 
    Create a `.env` file in the `/client` folder and aa:
 
    ```env
-   VITE_API_BASE_URL=http://localhost:8000
+   VITE_API_BASE_URL=http://localhost:5000
+   VITE_GROQ_API_KEY=your_groq_api_key
    ```
 
 5. **Run the Backend**
@@ -138,7 +136,7 @@ I welcome contributions! Follow these steps to contribute:
 1. **Fork the Repository**
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/your-username/college-management-system.git
+   git clone https://github.com/p-thanks/My-Aurex.git
    ```
 3. **Create a Branch**
    ```bash
@@ -154,7 +152,7 @@ I welcome contributions! Follow these steps to contribute:
    ```
 6. **Submit a Pull Request** on GitHub
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and check open [issues](https://github.com/yogeshrjk/college-management-system/issues) for tasks.
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and check open [issues](https://github.com/p-thanks/My-Aurex/issues) for tasks.
 
 ---
 
@@ -168,19 +166,19 @@ This project is licensed under the [Apache Licens 2.0](https://www.apache.org/li
 
 **Yogesh Rajak**  
 Frontend Developer | React.js Enthusiast  
-📧 [yogeshrjk4@gmail.com](mailto:yogeshrjk4@gmail.com)  
-🌐 [Portfolio](https://yogeshrjk.github.io)  
-[![X](https://img.shields.io/badge/X--black?logo=x&logoColor=white&style=flat)](https://x.com/Yogesh_rjk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yogeshrajak/)
+📧 [pthanksdev@gmail.com](mailto:pthanksdev@gmail.com)  
+🌐 [Portfolio]()  
+[![X]()
+[![LinkedIn]()
 
 ---
 
 ## 🌟 Show Your Support
 
 - ⭐ **Star this repo** to help others find it!
-- 📢 Share MyCampus on [X](https://x.com/intent/tweet?text=Check%20out%20MyCampus,%20a%20full-stack%20college%20management%20system!%20https://github.com/yogeshrjk/college-management-system)
-- 📢 Share on [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/yogeshrjkcollege-management-system) or other platforms.
+- 📢 Share MyCampus on [X]()
+- 📢 Share on [LinkedIn]() or other platforms.
 
-- 💬 Join the discussion in [GitHub Discussions](https://github.com/yogeshrjk/college-management-system/discussions).
+- 💬 Join the discussion in [GitHub Discussions](https://github.com/p-thanks/My-Aurex/discussions).
 
 ---
